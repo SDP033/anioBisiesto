@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AñoBisiesto</string>
+    <string name="n_aleatorio">Nº Aleatorio</string>
+    <string name="a_o_bisiesto">Año bisiesto</string>
+    <string name="este_a_o_es_bisiesto">¿Este año es bisiesto?</string>
+    <string name="si">SI</string>
+    <string name="no">No</string>
+    <string name="comprobar">Comprobar</string>
+    <string name="name">Name</string>
+    <string name="cambiar_fondo">Cambiar fondo</string>
+    <string name="comprobaci_n">Comprobación</string>
+</resources>
